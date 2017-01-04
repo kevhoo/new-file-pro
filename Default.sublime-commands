@@ -1,0 +1,13 @@
+[
+    {"caption": "New File Pro: Text", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "txt"} },
+    {"caption": "New File Pro: PHP", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "php"} },
+    {"caption": "New File Pro: PHP Class", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "php-class"} },
+    {"caption": "New File Pro: PHP Interface", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "php-interface"} },
+    {"caption": "New File Pro: HTML", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "html"} },
+    {"caption": "New File Pro: JS", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "js"} },
+    {"caption": "New File Pro: JSON", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "json"} },
+    {"caption": "New File Pro: XML", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "xml"} },
+    {"caption": "New File Pro: CSS", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "css"} },
+    {"caption": "New File Pro: Python", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "python"} },
+    {"caption": "New File Pro: Ruby", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "ruby"} }
+]

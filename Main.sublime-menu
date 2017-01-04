@@ -1,0 +1,49 @@
+[
+	{
+        "id": "file",
+        "children":
+        [
+            {
+                "caption": "New File Pro",
+                "children":
+                [
+                	{ "caption": "New Text File", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "txt"} },
+					{ "caption": "New PHP File", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "php"} },
+					{ "caption": "New PHP Class", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "php-class" } },
+					{ "caption": "New PHP Interface", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "php-interface" } },
+					{ "caption": "New HTML File", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "html" } },
+					{ "caption": "New JS File", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "js" } },
+					{ "caption": "New JSON File", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "json" } },
+					{ "caption": "New CSS File", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "css" } },
+					{ "caption": "New XML File", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "xml" } },
+					{ "caption": "New Python File", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "python" } },
+					{ "caption": "New Ruby File", "command": "new_file_pro", "args": { "paths": [], "name":"", "t": "ruby" } }
+                ]
+            }
+        ]
+    },
+	{
+	"caption": "Preferences",
+	"mnemonic": "n",
+	"id": "preferences",
+	"children": [ {
+		"caption": "Package Settings",
+		"mnemonic": "P",
+		"id": "package-settings",
+		"children": [ {
+			"caption": "NewFilePro",
+			"children":[
+				{
+					"command": "open_file",
+					"args": {"file": "${packages}/new-file-pro/new-file-pro.sublime-settings"},
+					"caption": "Settings – Default"
+				},
+				{
+					"command": "open_file",
+					"args": {"file": "${packages}/User/new-file-pro.sublime-settings"},
+					"caption": "Settings – User"
+				}
+			]
+		} ]
+	} ]
+}]
