@@ -2,6 +2,8 @@
 
 - new file in selected dir
 - new file with template
+- base https://github.com/titoBouzout/SideBarEnhancements
+- base https://github.com/kairyou/SublimeTmpl
 
 
 ## support file type:
