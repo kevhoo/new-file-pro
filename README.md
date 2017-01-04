@@ -1,8 +1,8 @@
 # sublime plugin new file pro
 
-### new file in selected dir
+- new file in selected dir
+- new file with template
 
-### new file with template
 
 ## support file type:
 - php & php class & php interface
